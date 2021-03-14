@@ -23,3 +23,10 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1]: https://www.instagram.com/alexitoo_cb/
 [2]: https://www.linkedin.com/in/alejandrocasalbarreiro/
+
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/alexitoo00/alexitoo00">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexitoo00&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
