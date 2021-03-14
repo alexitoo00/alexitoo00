@@ -33,13 +33,4 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 </a>
 <a href="https://github.com/alexitoo00/alexitoo00">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexitoo00&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/alexitoo00/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexitoo00&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/alexitoo00/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexitoo00&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a> 
