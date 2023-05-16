@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Actual text -->
 
-You can find me on [![Instagram][1.2]][1 | height=48px]], or on [![LinkedIn][2.2]][2 | height=48px]].
+You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 <!-- <a href="https://www.flaticon.es/iconos-gratis/instagram" title="instagram iconos">Instagram iconos creados por Freepik - Flaticon</a> -->
