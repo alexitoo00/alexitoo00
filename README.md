@@ -16,9 +16,10 @@ You can click the Preview link to take a look at your changes.
 You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
-
-[1.2]: <!-- Falta o link ao icono de instagram -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<!-- <a href="https://www.flaticon.es/iconos-gratis/instagram" title="instagram iconos">Instagram iconos creados por Freepik - Flaticon</a> -->
+[1.2]: https://raw.githubusercontent.com/alexitoo00/alexitoo00/master/instagram.png
+<!-- <a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por Freepik - Flaticon</a> -->
+[2.2]: https://raw.githubusercontent.com/alexitoo00/alexitoo00/master/linkedin.png
 
 <!-- Links to your social media accounts -->
 
