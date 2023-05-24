@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alexitoo00
 - 👀 I’m interested in programming C++, JS, Arduino and Unity
 - 🌱 I’m currently learning Python, Node and Django
-<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: [email](mailto:alexandrocb2013@gmail.com)
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - If you want a project in Arduino, C++, MATLAB or Unity I can make it. Just write me and we will be in contact
 
 <!---
