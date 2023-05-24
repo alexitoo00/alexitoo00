@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @alexitoo00
-- 👀 I’m interested in programming Arduino and Unity
-<!-- - 🌱 I’m currently learning Python, HTML, JS and P5 -->
+- 👀 I’m interested in programming C++, JS, Arduino and Unity
+- 🌱 I’m currently learning Python, Node and Django
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: [email](mailto:alexandrocb2013@gmail.com)
-- If you want a project in Arduino or Unity I can make it. Just fill out this [form](https://forms.gle/pYErQNpCNwktjLja7) and we will be in contact
+- If you want a project in Arduino, C++, MATLAB or Unity I can make it. Just write me and we will be in contact
 
 <!---
 alexitoo00/alexitoo00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
