@@ -45,3 +45,6 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 <a href="https://github.com/alexitoo00/InformaticaEnergias">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexitoo00&repo=InformaticaEnergias&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
+<a href="https://github.com/alexitoo00/NewEncoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexitoo00&repo=NewEncoder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
