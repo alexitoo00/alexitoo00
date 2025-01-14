@@ -2,14 +2,8 @@
 - 👀 I’m interested in programming C++, JS, Arduino and Unity
 - 🌱 I’m currently learning Python, Node and Django
 - 📫 How to reach me: [email](mailto:alexandrocb2013@gmail.com)
-<!-- - 💞️ I’m looking to collaborate on ... -->
 - If you want a project in Arduino, C++, MATLAB or Unity I can make it. Just write me and we will be in contact
-
-<!---
-alexitoo00/alexitoo00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!-- Actual text -->
 
@@ -26,8 +20,8 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.instagram.com/alexitoo_cb/
-[2]: https://www.linkedin.com/in/alejandrocasalbarreiro/
+[1]: https://www.instagram.com/alexitoo_cb/#gh-light-mode-only
+[2]: https://www.linkedin.com/in/alejandrocasalbarreiro/#gh-light-mode-only
 
 
 
