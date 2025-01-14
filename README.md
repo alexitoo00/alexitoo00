@@ -7,23 +7,17 @@
 
 <!-- Actual text -->
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-![Fancy logo](https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png#gh-dark-mode-only)
-![Fancy logo](https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png#gh-light-mode-only)
+You can find me on [![Instagram][1.2]][1][![Instagram][1.3]][1], or on [![LinkedIn][2.2]][2][![LinkedIn][2.3]][2].
 
 <!-- Icons -->
-<!-- <a href="https://www.flaticon.es/iconos-gratis/instagram" title="instagram iconos">Instagram iconos creados por Freepik - Flaticon</a> -->
-[1.2]: https://raw.githubusercontent.com/alexitoo00/alexitoo00/master/instagram.png
-<!-- <a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por Freepik - Flaticon</a> -->
-[2.2]: https://raw.githubusercontent.com/alexitoo00/alexitoo00/master/linkedin.png
+[1.2]: https://raw.githubusercontent.com/alexitoo00/alexitoo00/master/images/instagram.png#gh-light-mode-only
+[2.2]: https://raw.githubusercontent.com/alexitoo00/alexitoo00/master/images/linkedin.png#gh-light-mode-only
+[1.3]: https://raw.githubusercontent.com/alexitoo00/alexitoo00/master/images/instagram_dark.png#gh-dark-mode-only
+[2.3]: https://raw.githubusercontent.com/alexitoo00/alexitoo00/master/images/linkedin_dark.png#gh-dark-mode-only
 
 <!-- Links to your social media accounts -->
-
-[1]: https://www.instagram.com/alexitoo_cb/#gh-light-mode-only
-[2]: https://www.linkedin.com/in/alejandrocasalbarreiro/#gh-light-mode-only
-
-
+[1]: https://www.instagram.com/alexitoo_cb/
+[2]: https://www.linkedin.com/in/alejandrocasalbarreiro/
 
 ## &#x1f4c8; GitHub Stats
 
